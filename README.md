@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Orang Ganteng dan Intelek
+  Every Breath Allah
 </h1>
 
 <p align='center'>
@@ -40,7 +40,7 @@
 </a>
 
 <h3  align='center'>
- Jazakallah Khairon Shukran kasiron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" > 
  
 <a href="https://github.com/prismaalamsyah">
     <img src="https://komarev.com/ghpvc/?username=prismaalamsyah">
