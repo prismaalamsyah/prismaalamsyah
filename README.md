@@ -11,13 +11,13 @@
   <a href="https://instagram.com/pissmaa">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
- <a href="https://facebook.com">
+ <a href="https://facebook.com/](https://www.facebook.com/share/15Q5wJst44/?mibextid=wwXIfr">
    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
  </a>
  <a href="https://github.com/prismaalamsyah">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
  </a>
- <a href="https://twitter.com">
+ <a href="[https://twitter.com](https://x.com/prisma_ala47139)">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
   
