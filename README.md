@@ -36,7 +36,7 @@
 ## 🚀 Languages and Tools:
 
 <a href="https://github.com/prismaalamsyah">
-<img alt="Faizalilham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prismaalamsyah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="prismaalamsyah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prismaalamsyah&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <h3  align='center'>
